@@ -2,8 +2,7 @@
 -------------------------------
 If you are working with a specific population or clinical group, you might want to adapt your experiment in various ways to make it easy for your sample to interact with. 
 
-Resources:
-===============================
+**Resources:**
 
 ﻿`W3C Accessibility Principles <https://www.w3.org/WAI/fundamentals/accessibility-principles/>`__ 
 
@@ -13,20 +12,6 @@ Resources:
 
 `Section 508: Fonts and typography <https://www.section508.gov/develop/fonts-typography/>`__
 
-Contents
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. toctree::
-   :maxdepth: 1
-    Add text-to-speech and read aloud features `<Add text-to-speech and read aloud features>`
-    Add volume adjustments
-    Use appropriate colour palettes
-    Allow participants to adjust font or stimulus size
-    Accessible font choices
-    Add sign language videos or text transcriptions for audio content
-    Operable user interface
-    Time experiments appropriately
-    Avoid photosensitive content
-    Information must be easy to understand
 
 Add text-to-speech and read aloud features
 ===============================
