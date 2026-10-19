@@ -33,6 +33,7 @@ Further information:
 .. toctree::
     :maxdepth: 1
 
+    accessibility/index
     timing/index
     troubleshooting
     alerts/index
