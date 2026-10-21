@@ -1,3 +1,5 @@
+.. _accessexperiments:
+
 **How to create accessible experiments?**
 ---------------------------------------------
 If you are working with a specific population or clinical group, you might want to adapt your experiment in various ways to make it easy for your sample to interact with. 
