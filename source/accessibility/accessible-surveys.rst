@@ -1,3 +1,5 @@
+.. _accesssurveys:
+
 How to create accessible surveys?
 ---------------------------------------------
 If you are working with a specific population or clinical group, you might want to adapt your survey in various ways to make it easy for your sample to interact with. 
